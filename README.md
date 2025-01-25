@@ -6,7 +6,7 @@ Texto exemplo aqui
 | -------------  | --- |
 | :sparkles: Nome        | ** Logica-js-projeto_inicial **
 | :label: Tecnologias | HTML,CSS
-| :rocket: URL         | [Hospedado no Git](https://github.com/jonathanmesquita/logica-js-projeto_inicial)
+| :rocket: URL         | [Hospedado no GitHub](https://github.com/jonathanmesquita/logica-js-projeto_inicial)
 | :fire: Desafio: Logica JavaScript Projeto Inicial 01 | [Alura]()
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
